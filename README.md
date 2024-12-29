@@ -1,5 +1,6 @@
 # STM32_LowPower_MotorControl_TestBench_CPP
-A modular motor control test bench using an STM32 microcontroller programmed in C++. 
+A modular motor control test bench using an 
+STM32 microcontroller programmed in C++. 
 Key features include:  
 Low Power Management: Sleep mode can be triggered and exited via specific push buttons.
 Motor Control: ADC readings from a potentiometer are converted to PWM signals, controlling motor speed proportionally. 
